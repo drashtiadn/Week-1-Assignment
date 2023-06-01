@@ -1,5 +1,6 @@
 # Week-1-Assignment
-Objective: The purpose of this assignment is to test  understanding of Python basics, including syntax, data structures, and basic functions. 
+Objective: 
+The purpose of this assignment is to test  understanding of Python basics, including syntax, data structures, and basic functions. 
 
 Exercise 1: Variables and Data Types
 
