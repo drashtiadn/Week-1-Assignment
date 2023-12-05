@@ -1,4 +1,4 @@
-# Week-1-Assignment : Python Basics
+# Python Basics
 Objective: 
 The purpose of this assignment is to test  understanding of Python basics, including syntax, data structures, and basic functions. 
 
